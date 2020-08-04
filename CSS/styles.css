@@ -15,7 +15,7 @@ nav .navbar {
 }
 /* landing */
 .landing {
-  background-image: url("https://raw.githubusercontent.com/Mohamud-Dev/Mandi-Pizza/master/images/pizzabackground.jpeg");
+  background-image: url(https://raw.githubusercontent.com/Mohamud-Dev/Mandi-Pizza/master/images/pizzabackground.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -46,29 +46,6 @@ background: rgba(0, 0, 0, 0.3);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.first p {
-	color:yellow;
-	font-size: 1.3rem;
-	line-height: 1.5;
-	font-size: 2em;
-}
-
-/* about section */
-
-span.emoji {
-	font-size: 30px;
-	vertical-align: middle;
-	line-height: 2;
-  }
-
-#about h2 {
-  font-size: 2rem !important;
-  color: crimson;
-}
-#about p {
-  font-size: 1.2rem !important;
-  font-family: 'Pompiere', serif;
-}
 /* cuisine-section */
 .carousel-item.active, .carousel-item .view {
   height: 70vh!important;

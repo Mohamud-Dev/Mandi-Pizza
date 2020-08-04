@@ -14,7 +14,8 @@ Mohamud Ali
 The homemade pizza dough is produced in-house daily and is another reason why the pizza at Mandi everyones favourite. 
 This website allows our customers to choose from a wide variety of pizzas and make an order online. 
 
-<h2>link to my live site</h2>
+<h2>Link to my live site</h2>
+https://mohamud-dev.github.io/Mandi-Pizza/
 
 <h2>Setup/Installation</h2>
 
